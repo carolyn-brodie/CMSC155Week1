@@ -5,7 +5,7 @@ public class ThirdIf
     public static void main(String[] args) {
 
         //Try x set to 5, 2, 12, -1
-        int x = 5;
+        int x = -2;
 
         if (x > 10) System.out.println("Hi");
         else if (x > 4){
